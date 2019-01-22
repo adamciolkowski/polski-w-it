@@ -44,6 +44,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | header               |                     | nagłówek                              |
 | impact               |                     | wpływ                                 |
 | invalidate           | zinwalidować        | unieważnić                            |
+| investigate          | inwestygować        | szukać przyczyny (błędu)              |
 | issue                | isiu                | kwestia, problem                      |
 | job                  |                     | zadanie                               |
 | label                |                     | etykieta                              |
